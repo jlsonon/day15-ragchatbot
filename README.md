@@ -135,4 +135,3 @@ Access at: http://localhost:5173
 - Export chat history
 - Hybrid search (semantic + keyword)
 - Re-ranking of retrieved chunks
-# day15-ragchatbot
