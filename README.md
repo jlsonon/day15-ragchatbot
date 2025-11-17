@@ -121,11 +121,11 @@ Access at: http://localhost:5173
 
 ## RAG Features
 
-✅ **Semantic Search** - Uses embeddings to find semantically similar content, not just keywords  
-✅ **Relevance Scoring** - Shows similarity scores for retrieved chunks  
-✅ **Smart Chunking** - Preserves sentence boundaries and uses overlap for context  
-✅ **Fallback Support** - Falls back to keyword search if embeddings fail  
-✅ **Context-Aware** - Maintains conversation history for better answers  
+**Semantic Search** - Uses embeddings to find semantically similar content, not just keywords  
+**Relevance Scoring** - Shows similarity scores for retrieved chunks  
+**Smart Chunking** - Preserves sentence boundaries and uses overlap for context  
+**Fallback Support** - Falls back to keyword search if embeddings fail  
+**Context-Aware** - Maintains conversation history for better answers  
 
 
 ## Deployment
