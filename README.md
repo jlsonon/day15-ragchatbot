@@ -127,6 +127,17 @@ Access at: http://localhost:5173
 ✅ **Fallback Support** - Falls back to keyword search if embeddings fail  
 ✅ **Context-Aware** - Maintains conversation history for better answers  
 
+
+## Deployment
+
+The project is deployed and accessible at:
+
+https://day15-ragchatbot-3wjbcmkjl-jlsonons-projects.vercel.app/
+
+Simply open the link in any modern browser to access the live application.
+
+More deployment instructions or platform specific notes can be added here based on your hosting environment.
+
 ## Future Enhancements
 
 - Vector database integration (Pinecone, Weaviate, ChromaDB)
